@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2024-12-26T20:53:43.689229",
+    "article_title": "Finland detained an oil tanker it says was part of Russia's 'shadow fleet' helping fund its war in Ukraine",
+    "article_url": "https://www.businessinsider.com/finland-seized-oil-tanker-undersea-cable-cutting-russia-shadow-fleet-2024-12",
+    "prompt": "Write a tweet about this tech news (max 220 chars):\n            Title: Finland detained an oil tanker it says was part of Russia's 'shadow fleet' helping fund its war in Ukraine\n            Source: businessinsider.com\n\n            Must include:\n            - 1 emoji\n            - Key insight\n            - Source attribution\n            - 1 hashtag\n            - Under 220 chars",
+    "response": "Finland detains oil tanker, allegedly part of Russia's \"shadow fleet\" funding the Ukraine war.  A significant blow to Russian sanctions evasion! \ud83c\uddeb\ud83c\uddee  @businessinsider #UkraineWar",
+    "response_length": 177
+  },
+  {
+    "timestamp": "2024-12-26T20:53:49.397129",
+    "article_title": "Former NCAA Challenger to Lead X Games: A Vision for Reforming College Sports",
+    "article_url": "https://commstrader.com/business/former-ncaa-challenger-to-lead-x-games-a-vision-for-reforming-college-sports/",
+    "prompt": "Write a tweet about this tech news (max 220 chars):\n            Title: Former NCAA Challenger to Lead X Games: A Vision for Reforming College Sports\n            Source: uctoday.com\n\n            Must include:\n            - 1 emoji\n            - Key insight\n            - Source attribution\n            - 1 hashtag\n            - Under 220 chars",
+    "response": "Former NCAA challenger to lead X Games, bringing a vision for college sports reform!  Big changes ahead? \ud83e\udd14  Read more: uctoday.com #CollegeSports",
+    "response_length": 145
+  },
+  {
+    "timestamp": "2024-12-26T20:53:54.951189",
+    "article_title": "[\u6b63\u7248\u8cfc\u8cb7] DRM Protection Pro 8.2",
+    "article_url": "https://www.blogger.com/feeds/24477946/posts/default/3997251436216537165",
+    "prompt": "Write a tweet about this tech news (max 220 chars):\n            Title: [\u6b63\u7248\u8cfc\u8cb7] DRM Protection Pro 8.2\n            Source: azofreeware.com\n\n            Must include:\n            - 1 emoji\n            - Key insight\n            - Source attribution\n            - 1 hashtag\n            - Under 220 chars",
+    "response": "DRM Protection Pro 8.2 released! \ud83d\udee1\ufe0f  Get the legit version for enhanced copyright security.  Download via @azofreeware. #DRMProtection",
+    "response_length": 134
+  }
+]
